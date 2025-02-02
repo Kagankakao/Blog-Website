@@ -1,6 +1,4 @@
-## About "My Website"
-
-"My Website" is a blog platform built with Flask and SQLAlchemy, allowing users to create posts and engage through comments. This template is designed as an easy-to-use blog where users can contribute content, making it suitable for anyone looking to start a personal blog or learn web development basics.
+"Blog Website" is a blog platform built with Flask and SQLAlchemy, allowing users to create posts and engage through comments. This template is designed as an easy-to-use blog where users can contribute content, making it suitable for anyone looking to start a personal blog or learn web development basics.
 
 ### Features
 - **User Posts**: Users can easily create, edit, and delete posts.
